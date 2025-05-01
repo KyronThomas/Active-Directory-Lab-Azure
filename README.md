@@ -60,4 +60,3 @@ Ensure the following components are installed or prepared before beginning:
      - `/include/ost-config.php`
      - `/attachments/`
      - `/logs/`  
-   ![Permissions Screenshot](/path/to/file-permissions.png)
