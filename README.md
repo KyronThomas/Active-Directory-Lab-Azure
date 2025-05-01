@@ -61,18 +61,3 @@ Ensure the following components are installed or prepared before beginning:
      - `/attachments/`
      - `/logs/`  
    ![Permissions Screenshot](/path/to/file-permissions.png)
-
----
-
-## 🧼 Disk Sanitization Steps
-
-Use these steps to sanitize disks before repurposing virtual machines:
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  
-> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-(Add your organization's actual disk sanitization policy and tools here.)  
-![Disk Wipe Tool Screenshot](/path/to/disk-wipe.png)
-
-
